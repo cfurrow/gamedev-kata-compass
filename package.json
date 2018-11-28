@@ -1,0 +1,13 @@
+{
+  "name": "compass",
+  "version": "1.0.0",
+  "description": "Compass kata",
+  "main": "index.js",
+  "author": "Carl Furrow <hello@carlfurrow.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "phaser": "file:../../phaser",
+    "webpack-cli": "^3.1.2"
+  }
+}
